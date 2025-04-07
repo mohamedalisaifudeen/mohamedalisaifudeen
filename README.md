@@ -32,8 +32,14 @@
 
 ### 📊 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedalisaifudeen&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedalisaifudeen&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohamedalisaifudeen&theme=radical&hide_border=true)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedalisaifudeen&theme=radical)
+
 
 ---
 
