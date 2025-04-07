@@ -13,9 +13,6 @@
 
 ---
 
-
-### 💻 Languages and Tools
-
 ### 💻 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -42,6 +39,12 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-701517?style=flat&logo=sqlalchemy&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E5?style=flat&logo=axios&logoColor=white)
+![Passport Authentication](https://img.shields.io/badge/Passport%20Authentication-4B7BE3?style=flat&logo=passport&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-48B0F1?style=flat&logo=ejs&logoColor=white)
 
 
 ---
